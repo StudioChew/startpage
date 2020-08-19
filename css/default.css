@@ -1,16 +1,16 @@
 body {
-    background-color: #3b4252;
+    background-color: #2c2c2c;
 }
 
 a {
     font-family: 'Courier New', Courier, monospace;
-    color: #88c0d0;
-    transition-duration: 0.5s;
+    color: #65ff7c;
+    /*transition-duration: 0.5s;*/
 }
 
-a:hover {
-    color: #81a1c1;
-}
+/*a:hover {
+    color: #65ff7c;
+}*/
 
 p {
     font-family: 'Courier New', Courier, monospace;
@@ -38,9 +38,9 @@ hr {
     right: 0px;
     /*width: 440px;*/
     width: 30%;
-    height: 465px;
-    border: 3px solid #434c5e;
-    background-color: #434c5e;
+    height: 425px;
+    border: 3px solid #222222;
+    background-color: #222222;
     padding: 10px;
     overflow: auto;
     border-radius: 15px;
@@ -51,9 +51,9 @@ hr {
     float: left;
     right: 0px;
     width: 30%;
-    height: 465px;
-    border: 3px solid #434c5e;
-    background-color: #434c5e;
+    height: 425px;
+    border: 3px solid #222222;
+    background-color: #222222;
     padding: 10px;
     overflow: auto;
     border-radius: 15px;
@@ -61,13 +61,13 @@ hr {
 
 h2 {
     font-family: 'Courier New', Courier, monospace;
-    color: #eceff4;
+    color: #ffffff;
 }
 
 textarea {
   resize: none;
-  background-color: #434c5e;
-  color: #eceff4;
+  background-color: #222222;
+  color: #ffffff;
   font-family: 'Courier New', Courier, monospace;
   border-style: none;
   border-radius: 15px;
@@ -78,9 +78,9 @@ textarea {
     margin: auto;
     right: 0px;
     width: 30%;
-    height: 465px;
-    border: 3px solid #434c5e;
-    background-color: #434c5e;
+    height: 425px;
+    border: 3px solid #222222;
+    background-color: #222222;
     padding: 10px;
     overflow: auto;
     border-radius: 15px;
@@ -88,10 +88,10 @@ textarea {
 
 ol {
     color: #eceff4;
-    background-color: #3b4252;
+    background-color: #222222;
     border-radius: 15px;
     font-family: 'Courier New', Courier, monospace;
-    border: 3px solid #3b4252;
+    border: 3px solid #222222;
 }
 
 /* blog contents go here */
@@ -119,8 +119,8 @@ img {
 }
 
 article {
-    border: 2px solid #3b4252;
-    background-color: #3b4252;
+    border: 2px solid #2c2c2c;
+    background-color: #2c2c2c;
     padding: 10px;
     border-radius: 15px;
 }
